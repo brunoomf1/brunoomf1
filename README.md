@@ -1,5 +1,4 @@
 -  👋 Hi, I’m Bruno Monteiro
--  👀 I'm a Physicist, on the road to conclude my master degree.
 -  🌱 I’m interested in Python Development, Data Science, Data Analisys, QA test Automation, Cypress, Selenium WebDriver...
 -  📫 You can reach me by e-mail: brunoomf1@gmail.com 
 
